@@ -1,4 +1,4 @@
-# try
+# BoreholesBoard
 
 > A Vue.js project
 
