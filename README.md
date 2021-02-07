@@ -28,3 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### Mapbox Access token
+
+To use the map available dashboard, you need to have a Mapbox account and an access token. Your personal access token has to be inserted in the Map.vue component, in mapboxAccessToken option under component options. If you don't own a personal account, sign up at https://www.mapbox.com/.
