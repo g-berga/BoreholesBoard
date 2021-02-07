@@ -31,4 +31,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ### Mapbox Access token
 
-To use the map available dashboard, you need to have a Mapbox account and an access token. Your personal access token has to be inserted in mapboxAccessToken option in Map.vue component. If you don't own a personal account, sign up at https://www.mapbox.com/.
+To enable the map available in the dashboard, you need to have a Mapbox account and an access token. Your personal access token has to be inserted in mapboxAccessToken option in Map.vue component. If you don't own a personal account, sign up at https://www.mapbox.com/.
