@@ -63,7 +63,7 @@ export default {
         paper_bgcolor: '#343a40'
       },
       options: {
-        mapboxAccessToken: 'pk.eyJ1IjoiZy1iZXJnYW50aW5vIiwiYSI6ImNrajh5eDh2dTF0dXQyem5xMm94NzV5OWQifQ.jI_yN7vp8VflxrA0Mp5ZsQ',
+        mapboxAccessToken: '',
         responsive: true,
         displayModeBar: false
       }
